@@ -54,7 +54,23 @@ The current public repository focuses on product direction, documentation, scree
 
 ## Screenshots
 
-Product screenshots and public assets will live in the [`screenshots/`](screenshots) directory.
+### Popup overview
+![SOURI popup overview](screenshots/01-popup-overview.jpg)
+
+### Detection in context
+![SOURI toast detection](screenshots/02-toast-detection.png)
+
+### Sanitization result
+![SOURI sanitize action](screenshots/03-sanitize-action.png)
+
+### Audit viewer
+![SOURI audit viewer](screenshots/04-audit-viewer.png)
+
+### Create rule from event
+![SOURI create rule from event](screenshots/05-create-rule-from-event.png)
+
+### Rules list
+![SOURI rules list](screenshots/06-rules-list.png)
 
 ---
 
