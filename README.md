@@ -6,6 +6,8 @@ SOURI is a privacy-first, local-first browser extension that helps users detect,
 
 Built for practical AI workflows, SOURI adds visible controls, real-time sanitization, and reusable privacy rules so users stay in control of what they send.
 
+**Website:** [souri-site.vercel.app](https://souri-site.vercel.app)
+
 ---
 
 ## The problem
@@ -41,6 +43,8 @@ SOURI is being built to reduce that exposure at the input level — before sensi
 SOURI is in active development.
 
 The current public repository focuses on product direction, documentation, screenshots, and public-facing materials while the core implementation remains private during the early product phase.
+
+The public landing page is now available at [souri-site.vercel.app](https://souri-site.vercel.app).
 
 ---
 
@@ -82,6 +86,15 @@ SOURI is designed as a practical privacy layer for AI workflows:
 - allow users to sanitize before sending
 - provide visible auditability
 - make privacy actions reusable over time
+
+---
+
+## Public presence
+
+SOURI currently has two public surfaces:
+
+- This repository, which contains the public product README, documentation, and screenshots
+- The public landing page: [souri-site.vercel.app](https://souri-site.vercel.app)
 
 ---
 
