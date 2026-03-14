@@ -56,6 +56,16 @@ The public landing page is now available at [souri-site.vercel.app](https://sour
 
 ---
 
+## Research background
+
+SOURI is also informed by academic work exploring privacy risks when interacting with AI systems and approaches for protecting sensitive data before submission.
+
+A Russian-language research paper describing the conceptual foundation of the project is available here:
+
+- [SOURI research paper](research/souri-research-paper-ru.pdf)
+
+---
+
 ## Screenshots
 
 ### Popup overview
