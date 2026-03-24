@@ -2,7 +2,7 @@
 
 **Protect sensitive data before it reaches AI.**
 
-SOURI is a privacy-first, local-first browser extension that helps users detect, sanitize, and audit sensitive information in prompts before submission.
+SOURI is a privacy-first, local-first browser extension designed to help users detect, sanitize, and audit sensitive information before it is submitted to AI tools.
 
 Built for practical AI workflows, SOURI adds visible controls, real-time sanitization, and reusable privacy rules so users stay in control of what they send.
 
@@ -12,9 +12,9 @@ Built for practical AI workflows, SOURI adds visible controls, real-time sanitiz
 
 ## The problem
 
-People regularly paste emails, phone numbers, identifiers, credentials, and other sensitive information into AI tools. In most workflows, there is little visibility or control before that information is submitted.
+People regularly paste emails, phone numbers, identifiers, credentials, and other sensitive information into AI systems. In most workflows, there is little visibility or control before that information is submitted.
 
-SOURI is being built to reduce that exposure at the input level — before sensitive content leaves the screen.
+SOURI is being built to reduce that exposure at the input level — before sensitive data leaves the screen.
 
 ---
 
@@ -24,7 +24,7 @@ SOURI is being built to reduce that exposure at the input level — before sensi
 - Supports prompt sanitization before submission
 - Provides visible in-context actions through a toast UI
 - Keeps an audit trail of relevant privacy events
-- Turns real events into reusable privacy rules
+- Turns repeated actions into reusable privacy rules
 
 ---
 
@@ -42,9 +42,9 @@ SOURI is being built to reduce that exposure at the input level — before sensi
 
 SOURI is in active development.
 
-The current public repository focuses on product direction, documentation, screenshots, and public-facing materials while the core implementation remains private during the early product phase.
+The current public repository focuses on product direction, documentation, screenshots, and public-facing materials, while the core implementation remains private during the early product phase.
 
-The public landing page is now available at [souri-site.vercel.app](https://souri-site.vercel.app).
+The public landing page is available at [souri-site.vercel.app](https://souri-site.vercel.app).
 
 ---
 
@@ -58,44 +58,58 @@ The public landing page is now available at [souri-site.vercel.app](https://sour
 
 ## Research background
 
-SOURI is also informed by academic work exploring privacy risks when interacting with AI systems and approaches for protecting sensitive data before submission.
+SOURI is also informed by academic work exploring privacy risks in AI-assisted workflows and methods for protecting sensitive data before submission.
 
-A Russian-language research paper describing the conceptual foundation of the project is available here:
+A Russian-language research paper describing part of the conceptual foundation of the project is available here:
 
 - [SOURI research paper](research/souri-research-paper-ru.pdf)
 
 ---
 
-## Screenshots
+## Product preview
 
-### Popup overview
-![SOURI popup overview](screenshots/01-popup-overview.jpg)
+### Home
+![SOURI Home](public/screenshots/01-home.jpg)
 
-### Detection in context
-![SOURI toast detection](screenshots/02-toast-detection.png)
+### Detection toast
+![SOURI Detection Toast](public/screenshots/02-toast-detection.jpg)
 
-### Sanitization result
-![SOURI sanitize action](screenshots/03-sanitize-action.png)
+### Sanitized input
+![SOURI Sanitized Input](public/screenshots/03-input-sanitized.jpg)
 
-### Audit viewer
-![SOURI audit viewer](screenshots/04-audit-viewer.png)
+### Audit history
+![SOURI Audit History](public/screenshots/04-audit-history.jpg)
 
-### Create rule from event
-![SOURI create rule from event](screenshots/05-create-rule-from-event.png)
+### Audit event expanded
+![SOURI Audit Event Expanded](public/screenshots/05-audit-event-expanded.jpg)
 
-### Rules list
-![SOURI rules list](screenshots/06-rules-list.png)
+### Create rule from audit
+![SOURI Create Rule From Audit](public/screenshots/06-create-rule-from-audit.png)
+
+### Rules with created rule
+![SOURI Rules With Created Rule](public/screenshots/07-rules-with-rule.jpg)
+
+### Audit empty state
+![SOURI Audit Empty State](public/screenshots/08-audit-empty.jpg)
+
+### Rules empty state
+![SOURI Rules Empty State](public/screenshots/09-rules-empty.jpg)
+
+### Presets library
+![SOURI Presets Library](public/screenshots/10-presets-library.jpg)
 
 ---
 
-## Project direction
+## Why it matters
 
 SOURI is designed as a practical privacy layer for AI workflows:
 
 - detect sensitive information early
-- allow users to sanitize before sending
+- sanitize before submission
 - provide visible auditability
-- make privacy actions reusable over time
+- turn privacy actions into reusable rules over time
+
+The goal is not only to warn users, but to make privacy protection operational, visible, and repeatable inside real AI usage.
 
 ---
 
@@ -110,6 +124,6 @@ SOURI currently has two public surfaces:
 
 ## Notes
 
-This repository currently represents the public product presence of SOURI.
+This repository represents the public-facing product presence of SOURI.
 
 More public materials will be added as the product presentation layer evolves.
