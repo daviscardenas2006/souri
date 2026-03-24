@@ -84,7 +84,7 @@ A Russian-language research paper describing part of the conceptual foundation o
 ![SOURI Audit Event Expanded](SOURI/public/screenshots/05-audit-event-expanded.jpg)
 
 ### Create rule from audit
-![SOURI Create Rule From Audit](SOURI/public/screenshots/06-create-rule-from-audit.png)
+![SOURI Create Rule From Audit](SOURI\SOURI\public\screenshots/06-create-rule-from-audit.png)
 
 ### Rules with created rule
 ![SOURI Rules With Created Rule](SOURI/public/screenshots/07-rules-with-rule.jpg)
