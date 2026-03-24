@@ -69,34 +69,34 @@ A Russian-language research paper describing part of the conceptual foundation o
 ## Product preview
 
 ### Home
-![SOURI Home](public/screenshots/01-home.jpg)
+![SOURI Home](SOURI/public/screenshots/01-home.jpg)
 
 ### Detection toast
-![SOURI Detection Toast](public/screenshots/02-toast-detection.jpg)
+![SOURI Detection Toast](SOURI/public/screenshots/02-toast-detection.jpg)
 
 ### Sanitized input
-![SOURI Sanitized Input](public/screenshots/03-input-sanitized.jpg)
+![SOURI Sanitized Input](SOURI/public/screenshots/03-input-sanitized.jpg)
 
 ### Audit history
-![SOURI Audit History](public/screenshots/04-audit-history.jpg)
+![SOURI Audit History](SOURI/public/screenshots/04-audit-history.jpg)
 
 ### Audit event expanded
-![SOURI Audit Event Expanded](public/screenshots/05-audit-event-expanded.jpg)
+![SOURI Audit Event Expanded](SOURI/public/screenshots/05-audit-event-expanded.jpg)
 
 ### Create rule from audit
-![SOURI Create Rule From Audit](public/screenshots/06-create-rule-from-audit.png)
+![SOURI Create Rule From Audit](SOURI/public/screenshots/06-create-rule-from-audit.png)
 
 ### Rules with created rule
-![SOURI Rules With Created Rule](public/screenshots/07-rules-with-rule.jpg)
+![SOURI Rules With Created Rule](SOURI/public/screenshots/07-rules-with-rule.jpg)
 
 ### Audit empty state
-![SOURI Audit Empty State](public/screenshots/08-audit-empty.jpg)
+![SOURI Audit Empty State](SOURI/public/screenshots/08-audit-empty.jpg)
 
 ### Rules empty state
-![SOURI Rules Empty State](public/screenshots/09-rules-empty.jpg)
+![SOURI Rules Empty State](SOURI/public/screenshots/09-rules-empty.jpg)
 
 ### Presets library
-![SOURI Presets Library](public/screenshots/10-presets-library.jpg)
+![SOURI Presets Library](SOURI/public/screenshots/10-presets-library.jpg)
 
 ---
 
